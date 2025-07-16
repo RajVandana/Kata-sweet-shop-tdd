@@ -29,9 +29,13 @@ python -m unittest discover tests
 **SETUP**
 
 1.Clone the repository
-    git clone https://github.com/RajVandana/Kata-sweet-shop-tdd.git
-    cd sweet-shop-tdd
 
+    git clone https://github.com/RajVandana/Kata-sweet-shop-tdd.git
+    
+    cd sweet-shop-tdd
+    
 2. Create a virtual environment
+   
     python -m venv .venv
+   
     source .venv/bin/activate  # or .venv\Scripts\activate on Windows
