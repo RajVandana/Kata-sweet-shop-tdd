@@ -23,11 +23,11 @@ Each functionality was developed incrementally with versioned commits reflecting
 - `coverage` (optional, for test coverage reporting)
 
 **bash**
+
 python -m unittest discover tests
 
-
-
 **SETUP**
+
 1.Clone the repository
     git clone https://github.com/your-username/sweet-shop-tdd.git
     cd sweet-shop-tdd
